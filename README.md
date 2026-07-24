@@ -1,2 +1,2 @@
 # vqe-molecule-simulation
-Using the Variational Quantum Eigensolver algorithm to simulate diatomic molecules in quantum chemistry
+Benchmarking different optimizers and ansatz in the Variational Quantum Eigensolver (VQE) for molecular quantum chemistry simulations
