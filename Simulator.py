@@ -5,7 +5,7 @@ path = Path(__file__).resolve().parent
 sys.path.append(str(path / "main.py"))
 sys.path.append(str(path / "main.py" / "Optimizers"))
 
-import Ansatz
+import VQE
 from EPO import EPO
 
 result = EPO(Ansatz.expectation_value)
