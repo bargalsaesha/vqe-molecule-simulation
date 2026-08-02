@@ -5,4 +5,4 @@ openfermionpyscf
 numpy
 mealpy
 scipy
-math
+spsa
